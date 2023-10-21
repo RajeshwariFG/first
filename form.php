@@ -1,5 +1,4 @@
 Name: <input type="text" name="name" value="<?php echo $name;?>">
-
 E-mail: <input type="text" name="email" value="<?php echo $email;?>">
 
 Website: <input type="text" name="website" value="<?php echo $website;?>">
